@@ -1,2 +1,4 @@
 # SHAP-Interpretations-for-Student-Performance-Prediction
 SHAP Interpretations for Student Performance Prediction
+
+This repository contains the full source code and supporting materials for the paper “Opening the Black Box: SHAP Interpretations for Student Performance Prediction.” The project investigates machine learning models for predicting student academic outcomes under two scenarios—using prior-term grades (G1, G2) and excluding them to simulate early-stage prediction. The repository includes data preprocessing scripts, model training pipelines, evaluation routines, and SHAP-based interpretability analysis for XGBoost, LightGBM, and CatBoost. All experiments are implemented in Python using scikit-learn and SHAP, and the code is organized to allow easy reproduction of the binary and five-level classification results reported in the paper.
